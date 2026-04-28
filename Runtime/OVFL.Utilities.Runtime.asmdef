@@ -1,0 +1,17 @@
+{
+    "name": "OVFL.Utilities.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "Unity.InputSystem",
+        "Unity.ugui"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
