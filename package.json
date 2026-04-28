@@ -1,6 +1,6 @@
 {
     "name": "com.ovfl.utilities",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "OVFL Utilities",
     "description": "Unity 범용 유틸리티 패키지. 싱글톤 패턴과 디버그 도구를 제공합니다.",
     "unity": "6000.1",
