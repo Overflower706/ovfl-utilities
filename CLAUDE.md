@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **이 폴더(`com.ovfl.utilities/`) 내부로 작업 범위를 국한한다.**
 - 다른 프로젝트(`Catverse`, `Elis_In_Winterland`, `com.ovfl.ecs`)의 파일은 읽거나 수정하지 않는다.
-- 폴더 간 작업(여러 프로젝트에 걸친 변경)은 상위 `Chapter3/CLAUDE.md`에서만 수행한다.
+- 폴더 간 작업(여러 프로젝트에 걸친 변경)은 상위 `Live/CLAUDE.md`에서만 수행한다.
 
 ## 언어
 
